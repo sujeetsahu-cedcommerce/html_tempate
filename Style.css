@@ -1,0 +1,29 @@
+.main_container{
+    width: 85vw;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-top: 40px;
+    font-size: 1.3vw;
+
+}
+
+
+.list ul li{
+    /* border: 1px solid black; */
+    margin-left: -24px;
+    font-size: 1.3vw;
+}
+
+.bottom{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.3vw;
+
+}
+
+.bottom div{
+    width: 40vw;
+    text-align: justify;
+    font-size: 1.3vw;
+}
